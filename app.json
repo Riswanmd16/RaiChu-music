@@ -8,7 +8,7 @@
         "pyrogram"
     ],
     "website": "https://t.me/RaiChuUpdate",
-    "repository": "https://github.com/RaiChuXD/RaiChuMusic",
+    "repository": "https://github.com/Riswanmd16/RaiChuMusic",
     "success_url": "https://t.me/RaiChuXD",
     "env": {
         "API_ID": {
